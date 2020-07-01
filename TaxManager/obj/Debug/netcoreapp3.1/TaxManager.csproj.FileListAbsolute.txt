@@ -1,0 +1,13 @@
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\bin\Debug\netcoreapp3.1\TaxManager.exe
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\bin\Debug\netcoreapp3.1\TaxManager.deps.json
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\bin\Debug\netcoreapp3.1\TaxManager.runtimeconfig.json
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\bin\Debug\netcoreapp3.1\TaxManager.runtimeconfig.dev.json
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\bin\Debug\netcoreapp3.1\TaxManager.dll
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\bin\Debug\netcoreapp3.1\TaxManager.pdb
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\obj\Debug\netcoreapp3.1\TaxManager.csprojAssemblyReference.cache
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\obj\Debug\netcoreapp3.1\TaxManager.AssemblyInfoInputs.cache
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\obj\Debug\netcoreapp3.1\TaxManager.AssemblyInfo.cs
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\obj\Debug\netcoreapp3.1\TaxManager.csproj.CoreCompileInputs.cache
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\obj\Debug\netcoreapp3.1\TaxManager.dll
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\obj\Debug\netcoreapp3.1\TaxManager.pdb
+C:\Users\NEDL\Desktop\TaxManager\TaxManager\obj\Debug\netcoreapp3.1\TaxManager.genruntimeconfig.cache
